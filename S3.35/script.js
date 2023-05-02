@@ -10,3 +10,10 @@ const yearsUntilRet = (birthYear, firstName) => {
 }
 
 console.log(yearsUntilRet(2003,"Leena"));
+
+
+const arrowFunction = ()=>{
+console.log("hi");
+}
+
+arrowFunctio();
